@@ -1,0 +1,22 @@
+.button {
+  min-height: 60px;
+  min-width: 260px;
+  max-width: 700px;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffffff;
+  background-color: #fc9b27;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-out, box-shadow 0.3s ease-out;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #fc7427;
+  box-shadow: inset 0px 4px 0px rgba(0, 0, 0, 0.14);
+}
+
+.button:active {
+  box-shadow: none;
+}

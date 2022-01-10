@@ -1,0 +1,45 @@
+.advantage-card {
+  width: 540px;
+  min-height: 197px;
+  padding: 20px;
+  background-color: #e1edce;
+  box-sizing: border-box;
+}
+
+.advantage-card__negative {
+  background-color: #f8ddd7;
+}
+
+.advantage-card__header {
+  display: flex;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.advantage-card__img {
+  width: 56px;
+  height: 56px;
+  margin-right: 20px;
+}
+
+.advantage-card__owner {
+  display: inline-block;
+  min-height: 25px;
+  margin-bottom: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+  line-height: 25px;
+  color: #ffffff;
+  background-color: #88aa4d;
+}
+
+.advantage-card__owner_negative {
+  background-color: #f75531;
+}
+
+.advantage-card__text {
+  font-size: 18px;
+  line-height: 27px;
+  margin: 0;
+}

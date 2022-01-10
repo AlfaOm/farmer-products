@@ -1,0 +1,21 @@
+export const defaultTheme = {
+  pageWidth: "1280px",
+  pagePadding: "90px",
+  headerHeight: "80px",
+  footerHeight: "80px",
+  colorWhite: "#ffffff",
+  backgroundColorGray: "#f7f7f7",
+  backgroundColorBlue: "#d8ecfe",
+  panelBackgroundColor: "#88aa4d",
+  colorForBackgroundAbout: "#d8ecfe",
+  colorForButton: "#fc9b27",
+  colorForButtonHover: "#fc7427",
+  colorForCardPositive: "#e1edce",
+  colorForCardNegative: "#f8ddd7",
+  colorCardOwner: "#88aa4d",
+  colorCardOwnerNegative: "#f75531",
+  colorText: "#333333",
+  fontFamily: '"Inter", "Tahoma", sans-serif',
+  fontSizeDefault: "18px",
+  indent: "20px"
+};
